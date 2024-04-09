@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgb(151, 7, 7);
+}
+h1{
+    background-color: rgb(44, 2, 2);
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+}
+#websites{
+    background-color: rgb(151, 7, 7);
+    width: 0 auto;
+    height: 500px;
+    margin-top: 80px;
+    width: 100%;
+}
+.webside{
+    background-color: rgb(44, 2, 2);
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+a{
+    text-align: center;
+    font-size: 50px;
+    padding-left: 90px;
+    padding-top: 50px;
+    text-decoration: none;
+}
